@@ -5,7 +5,6 @@ PROBLEM STATEMENT
 
 Tracking employee attendance and absenteeism across multiple branches posed a significant challenge for AtliQ Hardware's HR department. The lack of a comprehensive solution hindered productivity and made it difficult to identify trends and patterns affecting the workforce.
 
-PROBLEM STATEMENT
 
 Key Features
 Data Transformation: Utilized Power Query to clean and transform raw HR data.
