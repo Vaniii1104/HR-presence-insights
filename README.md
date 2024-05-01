@@ -1,6 +1,8 @@
 # HR-presence-insights at Atliq Hardwares
 Welcome to the HR Analytics project at AtliQ Hardware! This project aims to revolutionize HR dynamics through insightful data analysis. By leveraging Power BI, we've transformed raw HR data into actionable insights, providing a comprehensive view of employee attendance and absenteeism.
 
+LIVE DASHBOARD: https://app.powerbi.com/groups/me/reports/596bf28d-076a-48ee-87d9-6a0fbae089a5/ReportSection?experience=power-bi
+
 PROBLEM STATEMENT
 
 Tracking employee attendance and absenteeism across multiple branches posed a significant challenge for AtliQ Hardware's HR department. The lack of a comprehensive solution hindered productivity and made it difficult to identify trends and patterns affecting the workforce.
