@@ -17,6 +17,8 @@ Detected a gradual increase in sick leave usage, signaling potential areas for e
 Found Tuesdays to be the peak attendance day, emphasizing mid-week engagement.
 Identified Fridays as the top choice for remote work, reflecting flexible work preferences.
 Noted Mondays witnessed the highest sick leave rates, suggesting possible adjustments for workload distribution.
-Acknowledgments
+
+ACKNOWLEDGEMENTS
+
 Special thanks to Dhaval and Hemanand sir for their invaluable guidance throughout this project.
 Gratitude to Codebasics for providing educational resources and support.
